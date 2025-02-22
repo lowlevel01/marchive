@@ -1,3 +1,4 @@
+# Family : PureLog Stealer
 
 ### stage2.py extracts the stage 2 sample.
 
