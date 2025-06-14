@@ -1,5 +1,5 @@
 
-# Family : probably Lumma Stealer
+# Family : Lumma Stealer
 
 - INS installer which is an SFX Archive with installation script and some Aretfecats disguised as PDF Files
 - Installer script runs a batch script disguised as a pdf file which is obfuscated by means of environment variables (each command can be deobfuscated with enc_deobf.py)
